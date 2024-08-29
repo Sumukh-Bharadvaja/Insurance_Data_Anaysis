@@ -52,7 +52,7 @@ Drill-through functionality allows users to navigate from summary views to detai
     ![Dashboard Screenshot](Drill_through_1.png)
   2. **Right click through ' Drill Through' Option:**
     ![Dashboard Screenshot](Drill_through_option.png)
-  3. **Filtered Data shown on the next page:
+  3. **Filtered Data shown on the next page:**
     ![Dashboard Screenshot](Drill_through_2.png)
 
 

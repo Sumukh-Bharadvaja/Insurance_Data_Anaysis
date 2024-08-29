@@ -1,8 +1,8 @@
-# Prisma Insurance Data Analysis
+# Prism Insurance Data Analysis
 
 ## Overview
 
-This project features a Power BI analysis of insurance data for Prisma Insurance Pvt. Ltd. The analysis includes various visualizations and insights derived from policy and claim data, leveraging Power BI's capabilities such as DAX (Data Analysis Expressions) and drill-through filters.
+This project features a Power BI analysis of insurance data for Prism Insurance Pvt. Ltd. The analysis includes various visualizations and insights derived from policy and claim data, leveraging Power BI's capabilities such as DAX (Data Analysis Expressions) and drill-through filters.
 
 ## Data Source
 

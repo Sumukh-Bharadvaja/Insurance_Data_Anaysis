@@ -1,0 +1,15 @@
+relationship 604e3d01-f064-464e-9863-f59a1cb42030
+	joinOnDateBehavior: datePartOnly
+	fromColumn: InsuranceData.PolicyStartDate
+	toColumn: LocalDateTable_b9de4271-74c5-4bf8-88eb-ccce5bcc95d4.Date
+
+relationship b3dbd8df-2d16-4e4d-b726-b5f8dd110593
+	joinOnDateBehavior: datePartOnly
+	fromColumn: InsuranceData.PolicyEndDate
+	toColumn: LocalDateTable_3008dad2-2b37-447e-b5da-ca69383f6944.Date
+
+relationship 1a3b240e-9f2f-41d0-893e-ec1b82daf941
+	joinOnDateBehavior: datePartOnly
+	fromColumn: InsuranceData.ClaimDate
+	toColumn: LocalDateTable_929f3570-c1ce-4ebe-bdd6-3fdbc2d02198.Date
+
